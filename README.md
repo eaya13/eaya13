@@ -1,0 +1,5 @@
+- 🌻 Hi, I'm Sohyun Jeong @eaya13 !
+- 🕹 Interested in game programming.
+- 🌱 Currently learning C#, C++ algorithms and other things for game developing.
+- 💓 Looking forward to working in a game company!
+- 🦋 Contact me via eaya13@gmail.com
